@@ -1,16 +1,22 @@
-# Quiz Interativo - NLW Expert
+# NLW Expert - Quiz
 
-Projeto desenvolvido durante o evento NLW Expert com o objetivo de praticar fundamentos de desenvolvimento web.
+Projeto desenvolvido durante o evento **NLW Expert** da Rocketseat.
 
-## Tecnologias
-HTML
-CSS
-JavaScript
+## 📚 Tecnologias
+- HTML
+- CSS
+- JavaScript
+- ChatGPT
+- GitHub
 
-## Objetivo
-Criar um quiz interativo utilizando JavaScript para manipulação de eventos e lógica de respostas.
+## 💻 Projeto
+Aplicação de quiz interativo desenvolvida para praticar conceitos básicos de desenvolvimento web.
 
-## Aprendizados
-- Estruturação de páginas com HTML
+## 🎯 Aprendizados
+- Estrutura de páginas HTML
 - Estilização com CSS
-- Manipulação de eventos com JavaScript
+- Lógica de programação com JavaScript
+- Uso do GitHub para versionamento
+
+## 📅 Data
+Fevereiro de 2024
